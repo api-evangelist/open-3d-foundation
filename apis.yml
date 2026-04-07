@@ -23,10 +23,10 @@ apis:
       Programmatic access to O3DE engine APIs, 3D rendering tools, and game development resources.
     humanURL: https://www.o3de.org/docs/
     tags:
-  - 3D Engine
-  - Gaming
-  - Simulation
-  - Linux Foundation
+      - 3D Engine
+      - Gaming
+      - Simulation
+      - Linux Foundation
     properties:
       - type: Documentation
         url: https://www.o3de.org/docs/
