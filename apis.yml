@@ -31,6 +31,10 @@ apis:
       - type: Documentation
         url: https://www.o3de.org/docs/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/open-3d-foundation-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/open-3d-foundation-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/o3de
   - type: Documentation
@@ -41,6 +45,8 @@ common:
     name: Open 3D Foundation GitHub
     description: Source code and repositories for Open 3D Foundation.
     url: https://github.com/o3de
+  - url: https://o3de.org/news-blogs/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
