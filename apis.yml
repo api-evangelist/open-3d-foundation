@@ -27,7 +27,7 @@ created: '2026-03-16'
 modified: '2026-04-28'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/open-3d-foundation/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: open-3d-foundation:open-3d-foundation-api
     name: Open 3D Foundation API
