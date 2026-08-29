@@ -3,6 +3,17 @@ name: Open 3D Foundation
 description: >-
   The Open 3D Foundation is a Linux Foundation project supporting the Open 3D Engine (O3DE), an open source, real-time 3D engine for building games, simulations, and other 3D applications. With Microsoft as a premier member, it provides a modular, cross-platform engine with advanced rendering capabilities.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
