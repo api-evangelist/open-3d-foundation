@@ -54,6 +54,8 @@ apis:
       - type: Documentation
         url: https://www.o3de.org/docs/
 common:
+  - type: Website
+    url: https://www.o3de.org/
   - type: VulnerabilityDisclosure
     url: security/open-3d-foundation-vulnerability-disclosure.yml
   - type: DomainSecurity
